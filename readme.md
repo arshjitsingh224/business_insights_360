@@ -1,4 +1,4 @@
-# Hotel Booking Report
+# Business Insights 360
 
 
 Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWU2ZjdiNmQtNTQwMS00OGU1LWJmZjEtOGY4ZTJjNDdlNjVkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
